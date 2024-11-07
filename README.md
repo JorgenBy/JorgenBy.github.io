@@ -1,2 +1,2 @@
-# jbygd
-min webbsida
+# jbygd.com 
+Simple webpage
